@@ -1,3 +1,7 @@
-# Root GitHub Pages
+# Toru Traders Agriculture Services
 
-This repository powers `https://manalk14322-max.github.io/` and redirects visitors to the UniHire project site at `/gig/`.
+Public GitHub Pages website for Toru Traders Agriculture Services.
+
+Live site: https://manalk14322-max.github.io/
+
+Repository: https://github.com/manalk14322-max/manalk14322-max.github.io
